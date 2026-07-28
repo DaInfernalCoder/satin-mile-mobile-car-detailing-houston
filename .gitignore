@@ -1,0 +1,14 @@
+.DS_Store
+Icon?
+.vercel
+qa-artifacts/
+.gmb-pack-staging/
+*.log
+.env*
+
+# Local Google Business Profile handoff pack
+GMB-INFO.txt
+SOURCES.txt
+logo/
+cover-photos/
+business-photos/
